@@ -1,0 +1,9 @@
+com\emergentes\dao\ProductoDao.class
+com\emergentes\controlador\ProductoDaoImp.class
+com\emergentes\modelo\Categoria.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\modelo\Producto.class
+com\emergentes\modelo\Blog.class
+com\emergentes\controlador\LoginControlador.class
+com\emergentes\controlador\MainController.class
+com\emergentes\controlador\CategoriaCad.class
